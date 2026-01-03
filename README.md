@@ -15,7 +15,7 @@ The insights help support **data-driven decisions to improve sales in 2023**.
 
 ## Dashboard Preview
 ###  Overall Sales Dashboard
-![Vrinda Store Dashboard](images/Vrinda store Dashboard.png)
+![Vrinda Store Dashboard](images/VrindastoreDashboard.png)
 ![Dataset](images/Dataset.png)
 
 ---
