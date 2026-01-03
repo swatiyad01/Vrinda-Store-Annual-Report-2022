@@ -1,4 +1,4 @@
-#  Vrinda Store Annual Sales Dashboard (2022)
+#  Vrinda Store Annual Sales (Data Analysis) 2022
 
 ## Project Overview
 This project presents an **interactive Excel dashboard** analyzing Vrinda Store’s 2022 sales data to uncover customer behavior, sales trends, and channel performance.  
